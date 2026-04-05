@@ -1,0 +1,23 @@
+{
+    "parcelas": [
+        {
+        "id": 1,
+        "valor": 100.00,
+        "dataVencimento": "02/05/2026",
+        "status": "A vencer"
+        },
+        {
+        "id": 2,
+        "valor": 150.00,
+        "dataVencimento": "02/04/2026",
+        "status": "Vencida"
+        },
+        {
+        "id": 3,
+        "valor": 200.00,
+        "dataVencimento": "02/03/2026",
+        "status": "Paga"
+        }
+    ],
+    "observação": "mocks para testes de painel de parcelas"
+}
