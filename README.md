@@ -17,8 +17,10 @@ cypress/support/commands.js -  cy.login()
 
 ### Configurar as dependencias
 ```
-Com npm: npm install (recomendo esse)  
-Com yarn: yarn install
+npm 
+npm init -y
+npm install cypress --save-dev
+
 ````
 ### Como rodar
 ```
